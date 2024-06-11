@@ -57,3 +57,10 @@ Ask your questions in the chat interface.
 
 User: I have no experience with coding. Can I still join the bootcamp?
 Chatbot: Yes, this is the perfect course for anyone who has never worked on ...
+
+
+### Output --
+
+![image](https://github.com/Pradhyumn1/UL_AI_assignment_pradhyumn-2020UCG7242-/assets/73153956/9c8f9ff0-2e22-4378-8367-381110907776)
+
+
