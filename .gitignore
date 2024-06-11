@@ -1,0 +1,74 @@
+# Ignore the virtual environment folder
+myenv/
+
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# Ignore distribution / packaging files
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore build directories
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+
+# Ignore pytest cache
+.cache/
+
+# Ignore IDEs and editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore MacOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore logs and databases
+*.log
+*.sqlite3
+
+# Ignore dotenv files
+.env
+.env.*
+
+# Ignore FAISS index files
+faiss_index*
+
+# Ignore CSV files (if they are data files you don't want in the repo)
+*.csv
+
+# Ignore streamlit configuration and cache
+.streamlit/
